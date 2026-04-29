@@ -1,0 +1,7 @@
+.vscode/
+.env
+.env.local
+.DS_Store
+*__debug_bin*
+vendor/
+.idea
